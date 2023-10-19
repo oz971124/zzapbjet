@@ -1,0 +1,4 @@
+../Core/Src/washer_time.c:14:6:wash_duration_processing	2
+../Core/Src/washer_time.c:20:6:rinse_duration_processing	1
+../Core/Src/washer_time.c:25:6:dry_duration_processing	2
+../Core/Src/washer_time.c:31:6:run_time_processing	1
