@@ -1,0 +1,5 @@
+../Core/Src/fnd4dight.c:27:6:fnd4digit_main	3
+../Core/Src/fnd4dight.c:79:6:FND_update	1
+../Core/Src/fnd4dight.c:88:6:FND4digit_off	1
+../Core/Src/fnd4dight.c:99:6:FND4digit_on	1
+../Core/Src/fnd4dight.c:112:6:FND_print	1
