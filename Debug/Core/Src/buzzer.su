@@ -1,0 +1,4 @@
+../Core/Src/buzzer.c:86:6:complete_sound	16	static
+../Core/Src/buzzer.c:100:6:bbig	16	static
+../Core/Src/buzzer.c:130:7:noTone	8	static
+../Core/Src/buzzer.c:136:6:buzzer_main	24	static

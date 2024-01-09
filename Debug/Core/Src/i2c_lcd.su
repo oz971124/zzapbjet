@@ -1,0 +1,8 @@
+../Core/Src/i2c_lcd.c:17:6:i2c_lcd_washer	56	static
+../Core/Src/i2c_lcd.c:61:6:i2c_lcd_washer_init	8	static
+../Core/Src/i2c_lcd.c:70:6:i2c_lcd_main	16	static
+../Core/Src/i2c_lcd.c:90:6:lcd_command	32	static
+../Core/Src/i2c_lcd.c:109:6:lcd_data	32	static
+../Core/Src/i2c_lcd.c:127:6:i2c_lcd_init	8	static
+../Core/Src/i2c_lcd.c:140:6:lcd_string	16	static
+../Core/Src/i2c_lcd.c:149:6:move_cursor	16	static
